@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243036590724",
+    "firebase_url": "https://humanresources-270107.firebaseio.com",
+    "project_id": "humanresources-270107",
+    "storage_bucket": "humanresources-270107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243036590724:android:15895360be653b4b1d68d1",
+        "android_client_info": {
+          "package_name": "com.example.swd_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243036590724-bn9udhhqlosstb9r3316ig244b3a74gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swd_project",
+            "certificate_hash": "7763ac69b6b09e36ad1a8c84e55f12d5b4a7bc8a"
+          }
+        },
+        {
+          "client_id": "243036590724-jbearvlns2juhth4da602soimikjflgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIryHkxB8RdxA4Yn0iRFCA_kBDIIt3Glo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243036590724-jbearvlns2juhth4da602soimikjflgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
